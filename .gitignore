@@ -1,0 +1,16 @@
+/.idea
+/node_modules
+.env
+/logs
+/dist
+/uploads
+/processed_images
+/fake_service/Input
+/fake_service/Output
+/client-build
+/server-build
+
+
+package-lock.json
+npm-debug.log
+/nbproject
